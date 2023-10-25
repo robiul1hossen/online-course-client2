@@ -1,0 +1,12 @@
+.membership {
+  border: 1px solid green;
+  padding: 5px 12px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.membership:hover {
+  background-color: green;
+  color: white;
+  transition: 0.5s;
+  font-weight: 500;
+}
